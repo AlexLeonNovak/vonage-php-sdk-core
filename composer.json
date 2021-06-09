@@ -29,7 +29,7 @@
     "psr/log": "^1.1"
   },
   "require-dev": {
-    "guzzlehttp/guzzle": ">=6",
+    "guzzlehttp/guzzle": "^7",
     "helmich/phpunit-json-assert": "^3.3",
     "php-http/mock-client": "^1.4",
     "phpstan/phpstan": "^0.12",
