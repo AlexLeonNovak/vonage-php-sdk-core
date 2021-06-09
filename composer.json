@@ -46,7 +46,7 @@
       "VonageTest\\": "test/"
     }
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "scripts": {
     "cs-check": "phpcs",
     "cs-fix": "phpcbf",
